@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">💬 Ask me about WordPress, Laravel, Vue Js, PHP<br>📫 How to reach me mirromanalang01@gmail.com</p>
+<p align="left">💬 Ask me about WordPress, Laravel, Vue Js, PHP<br>📫 How to reach me <a href="mailto:mirromanalang01@gmail.com">mirromanalang01@gmail.com</a></p>
 
 ###
 
