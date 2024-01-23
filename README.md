@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="banner.png"  />
+  <img height="250" width="100%" src="banner.png"  />
 </div>
 
 ###
@@ -102,7 +102,4 @@
 ###
 
 <br clear="both">
-
-<img src="snake.yml" alt="Snake animation" />
-
 ###
