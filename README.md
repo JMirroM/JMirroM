@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="banner.png"  />
+  <img height="250" src="banner.png"  />
 </div>
 
 ###
@@ -103,6 +103,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JMirroM/JMirroM/output/snake.svg" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
