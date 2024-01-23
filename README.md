@@ -97,7 +97,7 @@
 
 <br clear="both">
 
-<h3 align="left" backgrouund-color="#333" color="#fff" width="100%" height="300px">"I’m not a great Programmer. I’m just good programmer with a great habit” <br><br>- Kent Beck</h3>
+<h3 align="left">"I’m not a great Programmer. I’m just good programmer with a great habit” <br><br>- Kent Beck</h3>
 
 ###
 
